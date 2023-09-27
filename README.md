@@ -1,1 +1,1 @@
-# amazon-challenge
+# amazon-clone
